@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="ConexaoDAO/src"/>
+	<classpathentry exported="true" kind="lib" path="ConexaoDAO/lib/mysql-connector-java-8.0.11.jar"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="ConexaoDAO/out/production/ConexaoDAO"/>
+</classpath>

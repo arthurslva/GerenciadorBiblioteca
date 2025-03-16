@@ -1,0 +1,10 @@
+"senhor dos aneis", "j r r tolkien", 9780261102385, 1954-07-29, 5
+"1984", "george orwell", 9780451524935, 1949-06-08, 3
+"dom casmurro", "machado de assis", 9788520933108, 1899-01-01, 4
+"o pequeno príncipe", "antoine de saint-exupéry", 9782070408504, 1943-04-06, 6
+"harry potter e a pedra filosofal", "j k rowling", 9780439708180, 1997-06-26, 7
+"crime e castigo", "fiódor dostoiévski", 9788573264763, 1866-01-01, 2
+"o grande gatsby", "f scott fitzgerald", 9780743273565, 1925-04-10, 3
+"o código da vinci", "dan brown", 9780307474278, 2003-03-18, 5
+"a revolução dos bichos", "george orwell", 9780451526342, 1945-08-17, 4
+"memórias póstumas de brás cubas", "machado de assis", 9788525044649, 1881-01-01, 3
